@@ -28,6 +28,16 @@ The application allows users to manage customer orders and their corresponding i
 - Modularization using INCLUDE programs.
 - Business logic and data validation.
 
+## Source Code Structure
+
+The source code is organized into five ABAP files:
+
+1. **z_sgpv_ab1361.prog.abap** — Main program and INCLUDE declarations.
+2. **z_sgpv_ab1361_lcl.abap** — Local class definition and implementation.
+3. **z_sgpv_ab1361_top.abap** — Global data declarations and object references.
+4. **z_sgpv_ab1361_pbo.abap** — Process Before Output modules.
+5. **z_sgpv_ab1361_pai.abap** — Process After Input modules.
+
 ## Screenshots
 
 Screenshots demonstrating the application's interface, program logic, and execution will be included here.
