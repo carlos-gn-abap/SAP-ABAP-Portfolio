@@ -3,6 +3,7 @@
 A collection of SAP ABAP projects focused on backend development, business logic, data modeling and reporting.
 
 ## Technologies
+
 - ABAP Classic and Object-Oriented ABAP.
 - SAP GUI and Module Pool (Dynpros).
 - Open SQL.
@@ -27,6 +28,7 @@ An application for managing employee, company, department and salary data, using
 Reports featuring selection screens, database data retrieval through Open SQL and structured output using ALV.
 
 ## Goals
+
 - Improve ABAP development skills.
 - Build practical SAP business solutions.
 - Develop a professional portfolio focused on SAP technologies.
