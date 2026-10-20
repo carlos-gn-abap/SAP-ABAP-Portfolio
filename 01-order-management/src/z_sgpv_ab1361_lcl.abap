@@ -107,6 +107,7 @@ CLASS lcl_pedido_ab1361 IMPLEMENTATION.
 
 * Eliminamos la cabecera.
     DELETE FROM zvbak_ab1361 WHERE vbeln EQ cabecera-vbeln.
+
 * Eliminamos las líneas.
     DELETE FROM zvbap_ab1361 WHERE vbeln EQ cabecera-vbeln.
 
