@@ -41,19 +41,19 @@ The source code is organized into five ABAP files:
 ## Screenshots
 
 ### 01 - Transacción gestión pedidos - Dynpro 1
-![Transacción gestión pedidos - Dynpro 1](screenshots/01-Transacci%C3%B3n%20gesti%C3%B3n%20pedidos%20-%20Dynpro%201.jpg)
+<img src="screenshots/01-Transacci%C3%B3n%20gesti%C3%B3n%20pedidos%20-%20Dynpro%201.jpg" width="600" alt="Transacción gestión pedidos - Dynpro 1">
 
 ### 02 - Transacción gestión pedidos - Dynpro 2
-![Transacción gestión pedidos - Dynpro 2](screenshots/02-Transacci%C3%B3n%20gesti%C3%B3n%20pedidos%20-%20Dynpro%202.jpg)
+<img src="screenshots/02-Transacci%C3%B3n%20gesti%C3%B3n%20pedidos%20-%20Dynpro%202.jpg" width="600" alt="Transacción gestión pedidos - Dynpro 2">
 
 ### 03 - Lógica de proceso - Dynpro 1
-![Lógica de proceso - Dynpro 1](screenshots/03-L%C3%B3gica%20de%20proceso%20-%20Dynpro%201.jpg)
+<img src="screenshots/03-L%C3%B3gica%20de%20proceso%20-%20Dynpro%201.jpg" width="600" alt="Lógica de proceso - Dynpro 1">
 
 ### 04 - Lógica de proceso - Dynpro 2
-![Lógica de proceso - Dynpro 2](screenshots/04-L%C3%B3gica%20de%20proceso%20-%20Dynpro%202.jpg)
+<img src="screenshots/04-L%C3%B3gica%20de%20proceso%20-%20Dynpro%202.jpg" width="600" alt="Lógica de proceso - Dynpro 2">
 
 ### 05 - Transacción gestión pedidos - Diseño principal
-![Transacción gestión pedidos - Diseño principal](screenshots/05-Transacci%C3%B3n%20gesti%C3%B3n%20pedidos%20-%20Dise%C3%B1o%20principal.jpg)
+<img src="screenshots/05-Transacci%C3%B3n%20gesti%C3%B3n%20pedidos%20-%20Dise%C3%B1o%20principal.jpg" width="600" alt="Transacción gestión pedidos - Diseño principal">
 
 ## Project Purpose
 
