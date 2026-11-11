@@ -32,7 +32,12 @@ It also includes screen navigation and error handling to improve the user experi
 
 ## Source Code Structure
 
-Source code files will be documented here.
+The source code is organized into four ABAP files:
+
+1. **z_dynpro1_niv2_ab1361.prog.abap** — Main program and INCLUDE declarations.
+2. **z_dynpro1_niv2_ab1361_top.abap** — Global data declarations and table structures.
+3. **z_dynpro1_niv2_ab1361_pbo.abap** — Output modules and screen preparation.
+4. **z_dynpro1_niv2_ab1361_pai.abap** — User command handling and application logic.
 
 ## Screenshots
 
