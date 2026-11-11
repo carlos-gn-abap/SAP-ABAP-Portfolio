@@ -10,26 +10,25 @@ It also includes screen navigation and error handling to improve the user experi
 
 ## Main Features
 
-- Employee information management.
-- Display of employee details, including company, department and salary.
-- Database access using custom Z tables.
-- Data retrieval and manipulation using Open SQL.
-- Employee existence validation.
-- Popup message when the requested employee does not exist.
-- Navigation between application screens.
+- Employee lookup by airline company and employee number.
+- Employee registration and data management.
+- Business validations to check employee existence.
+- Navigation between screens using Module Pool and Dynpro programming.
+- Display of employee information, including name, surname, department, area, salary, currency and agency.
+- Data retrieval using Open SQL SELECT statements.
+- Data insertion using Open SQL INSERT.
+- Custom database table for employee information.
+- Popup dialogs for handling employees that do not exist.
 
 ## Technical Concepts
 
 - Classic ABAP.
-- ABAP Module Pool programming.
-- Dynpro screens.
-- PBO (Process Before Output).
-- PAI (Process After Input).
-- Custom database tables (Z Tables).
+- Module Pool programming and Dynpros.
+- Custom database tables (Z tables).
+- ABAP Dictionary (DDIC).
 - Open SQL.
-- Data validation and error handling.
-- SAP GUI screen navigation.
-- Popup dialogs.
+- Modularization using INCLUDE programs.
+- Business logic and data validation.
 
 ## Source Code Structure
 
