@@ -41,19 +41,19 @@ The source code is organized into five ABAP files:
 ## Screenshots
 
 ### 01 - Order Management Transaction - Dynpro 1
-<img src="screenshots/01%20-%20Order%20Management%20Transaction%20-%20Dynpro%201.jpg" width="600" alt="Order Management Transaction - Dynpro 1">
+<img src="screenshots/01-Order%20Management%20Transaction%20-%20Dynpro%201.jpg" width="600" alt="Order Management Transaction - Dynpro 1">
 
 ### 02 - Order Management Transaction - Dynpro 2
-<img src="screenshots/02%20-%20Order%20Management%20Transaction%20-%20Dynpro%202.jpg" width="600" alt="Order Management Transaction - Dynpro 2">
+<img src="screenshots/02-Order%20Management%20Transaction%20-%20Dynpro%202.jpg" width="600" alt="Order Management Transaction - Dynpro 2">
 
 ### 03 - Process Logic - Dynpro 1
-<img src="screenshots/03%20-%20Process%20Logic%20-%20Dynpro%201.jpg" width="600" alt="Process Logic - Dynpro 1">
+<img src="screenshots/03-Process%20Logic%20-%20Dynpro%201.jpg" width="600" alt="Process Logic - Dynpro 1">
 
 ### 04 - Process Logic - Dynpro 2
-<img src="screenshots/04%20-%20Process%20Logic%20-%20Dynpro%202.jpg" width="600" alt="Process Logic - Dynpro 2">
+<img src="screenshots/04-Process%20Logic%20-%20Dynpro%202.jpg" width="600" alt="Process Logic - Dynpro 2">
 
 ### 05 - Order Management Transaction - Main Design
-<img src="screenshots/05%20-%20Order%20Management%20Transaction%20-%20Main%20Design.jpg" width="600" alt="Order Management Transaction - Main Design">
+<img src="screenshots/05-Order%20Management%20Transaction%20-%20Main%20Design.jpg" width="600" alt="Order Management Transaction - Main Design">
 
 ## Project Purpose
 
