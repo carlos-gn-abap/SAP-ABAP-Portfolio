@@ -41,7 +41,26 @@ The source code is organized into four ABAP files:
 
 ## Screenshots
 
-Screenshots demonstrating the application's interface, employee management screens and program logic will be included here.
+### 01 - Employee Management Transaction - Dynpro 1
+<img src="screenshots/01-Employee%20Management%20Transaction%20-%20Dynpro%201.jpg" width="600" alt="Employee Management Transaction - Dynpro 1">
+
+### 02 - Employee Management Transaction - Dynpro 2
+<img src="screenshots/02-Employee%20Management%20Transaction%20-%20Dynpro%202.jpg" width="600" alt="Employee Management Transaction - Dynpro 2">
+
+### 03 - Employee Management Transaction - Dynpro 3
+<img src="screenshots/03-Employee%20Management%20Transaction%20-%20Dynpro%203.jpg" width="600" alt="Employee Management Transaction - Dynpro 3">
+
+### 04 - Process Logic - Dynpro 1
+<img src="screenshots/04-Process%20Logic%20-%20Dynpro%201.jpg" width="600" alt="Process Logic - Dynpro 1">
+
+### 05 - Process Logic - Dynpro 2
+<img src="screenshots/05-Process%20Logic%20-%20Dynpro%202.jpg" width="600" alt="Process Logic - Dynpro 2">
+
+### 06 - Process Logic - Dynpro 3
+<img src="screenshots/06-Process%20Logic%20-%20Dynpro%203.jpg" width="600" alt="Process Logic - Dynpro 3">
+
+### 07 - Employee Management Transaction - Main Design
+<img src="screenshots/07-Employee%20Management%20Transaction%20-%20Main%20Design.jpg" width="600" alt="Employee Management Transaction - Main Design">
 
 ## Project Purpose
 
