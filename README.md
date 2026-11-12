@@ -1,29 +1,29 @@
+
 # SAP ABAP Portfolio
 
-A collection of SAP ABAP projects focused on backend development, business logic, data modeling and reporting.
+A collection of SAP Classic ABAP projects developed in SAP GUI, focused on backend development, business logic, data modeling and reporting.
 
 ## Technologies
 
-- ABAP Classic and Object-Oriented ABAP.
+- Classic ABAP and Object-Oriented ABAP.
 - SAP GUI and Module Pool (Dynpros).
 - Open SQL.
 - ALV Reports.
 - SAP Data Dictionary (DDIC).
 - Modularization techniques.
 - Debugging.
-- SAP Enhancements and User Exits.
 
 ## Projects
 
-1. Order Management Application
+### 1. Order Management Application
 
-An end-to-end application developed using Module Pool (Dynpros), combining classic and object-oriented ABAP. Includes custom Z tables for order headers and items, business validations, item management, Open SQL queries and ALV reports.
+A business application for order creation and management, developed using Module Pool (Dynpros) and combining classic and object-oriented ABAP. Includes custom Z tables for order headers and items, business validations, item management, Open SQL queries and ALV reports.
 
-2. Employee Management Application
+### 2. Employee Management Application
 
-An application for managing employee, company, department and salary data, using custom Z tables, Open SQL queries, validations and screen navigation.
+A set of applications for employee registration and maintenance, including employee lookup, data creation, modification and deletion. Developed using Module Pool (Dynpros), custom Z tables, Open SQL queries, business validations and screen navigation.
 
-3. ALV Reports
+### 3. ALV Reports
 
 Reports featuring selection screens, database data retrieval through Open SQL and structured output using ALV.
 
