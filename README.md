@@ -6,11 +6,13 @@ A collection of SAP Classic ABAP projects developed in SAP GUI, focused on backe
 
 - Classic ABAP and Object-Oriented ABAP.
 - SAP GUI and Module Pool (Dynpros).
-- Open SQL.
-- ALV Reports.
-- SAP Data Dictionary (DDIC).
-- Modularization techniques.
-- Debugging.
+- Open SQL (SELECT, JOIN, INSERT, MODIFY and DELETE).
+- SAP Data Dictionary (DDIC) and Custom Z Tables.
+- ALV Reports using CL_SALV_TABLE.
+- Selection Screens and Data Filtering.
+- Internal Tables and Structured Data Types.
+- Modularization using INCLUDE Programs and FORM Routines.
+- Tabstrip Controls and Screen Navigation.
 
 ## Projects
 
