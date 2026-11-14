@@ -65,6 +65,31 @@ The report is implemented in a single ABAP file:
 
 ## Screenshots
 
+### 01 - Order Processing Transaction
+
+#### 01 - Order Processing Transaction - Dynpro 1
+<img src="01-order-processing/screenshots/01-Order%20Processing%20Transaction%20-%20Dynpro%201.jpg" width="600" alt="Order Processing Transaction - Dynpro 1">
+
+#### 02 - Order Processing Transaction - Dynpro 2
+<img src="01-order-processing/screenshots/02-Order%20Processing%20Transaction%20-%20Dynpro%202.jpg" width="600" alt="Order Processing Transaction - Dynpro 2">
+
+#### 03 - Process Logic - Dynpro 1
+<img src="01-order-processing/screenshots/03-Process%20Logic%20-%20Dynpro%201.jpg" width="600" alt="Process Logic - Dynpro 1">
+
+#### 04 - Process Logic - Dynpro 2
+<img src="01-order-processing/screenshots/04-Process%20Logic%20-%20Dynpro%202.jpg" width="600" alt="Process Logic - Dynpro 2">
+
+#### 05 - Order Processing Transaction - Main Design
+<img src="01-order-processing/screenshots/05-Order%20Processing%20Transaction%20-%20Main%20Design.jpg" width="600" alt="Order Processing Transaction - Main Design">
+
+### 02 - Order Reporting
+
+#### 01 - Order Reporting - Selection Screen
+<img src="02-order-reporting/screenshots/01-Order%20Reporting%20-%20Selection%20Screen.jpg" width="600" alt="Order Reporting - Selection Screen">
+
+#### 02 - Order Reporting - ALV Output
+<img src="02-order-reporting/screenshots/02-Order%20Reporting%20-%20ALV%20Output.jpg" width="600" alt="Order Reporting - ALV Output">
+
 ## Project Purpose
 
 This project demonstrates practical experience in Classic ABAP development, Object-Oriented ABAP, SAP GUI transaction programming, database operations and reporting. It showcases the development of two independent components covering both order processing and order data reporting.
