@@ -67,58 +67,45 @@ The source code is organized into four ABAP files:
 ### 01 - Employee Registration Transaction
 
 #### 01 - Employee Registration Transaction - Dynpro 1
-
-<img src="01-employee-registration/screenshots/01-Employee%20Registration%20Transaction%20-%20Dynpro%201.jpg" width="600">
+<img src="01-employee-registration/screenshots/01-Employee%20Registration%20Transaction%20-%20Dynpro%201.jpg" width="600" alt="Employee Registration Transaction - Dynpro 1">
 
 #### 02 - Employee Registration Transaction - Dynpro 2
-
-<img src="01-employee-registration/screenshots/02-Employee%20Registration%20Transaction%20-%20Dynpro%202.jpg" width="600">
+<img src="01-employee-registration/screenshots/02-Employee%20Registration%20Transaction%20-%20Dynpro%202.jpg" width="600" alt="Employee Registration Transaction - Dynpro 2">
 
 #### 03 - Employee Registration Transaction - Dynpro 3
-
-<img src="01-employee-registration/screenshots/03-Employee%20Registration%20Transaction%20-%20Dynpro%203.jpg" width="600">
+<img src="01-employee-registration/screenshots/03-Employee%20Registration%20Transaction%20-%20Dynpro%203.jpg" width="600" alt="Employee Registration Transaction - Dynpro 3">
 
 #### 04 - Process Logic - Dynpro 1
-
-<img src="01-employee-registration/screenshots/04-Process%20Logic%20-%20Dynpro%201.jpg" width="600">
+<img src="01-employee-registration/screenshots/04-Process%20Logic%20-%20Dynpro%201.jpg" width="600" alt="Process Logic - Dynpro 1">
 
 #### 05 - Process Logic - Dynpro 2
-
-<img src="01-employee-registration/screenshots/05-Process%20Logic%20-%20Dynpro%202.jpg" width="600">
+<img src="01-employee-registration/screenshots/05-Process%20Logic%20-%20Dynpro%202.jpg" width="600" alt="Process Logic - Dynpro 2">
 
 #### 06 - Process Logic - Dynpro 3
-
-<img src="01-employee-registration/screenshots/06-Process%20Logic%20-%20Dynpro%203.jpg" width="600">
+<img src="01-employee-registration/screenshots/06-Process%20Logic%20-%20Dynpro%203.jpg" width="600" alt="Process Logic - Dynpro 3">
 
 #### 07 - Employee Registration Transaction - Main Design
-
-<img src="01-employee-registration/screenshots/07-Employee%20Registration%20Transaction%20-%20Main%20Design.jpg" width="600">
+<img src="01-employee-registration/screenshots/07-Employee%20Registration%20Transaction%20-%20Main%20Design.jpg" width="600" alt="Employee Registration Transaction - Main Design">
 
 ### 02 - Employee Maintenance Transaction
 
 #### 01 - Employee Maintenance Transaction - Dynpro 1 and 2
-
-<img src="02-employee-maintenance/screenshots/01-Employee%20Maintenance%20Transaction%20-%20Dynpro%201%20and%202.jpg" width="600">
+<img src="02-employee-maintenance/screenshots/01-Employee%20Maintenance%20Transaction%20-%20Dynpro%201%20and%202.jpg" width="600" alt="Employee Maintenance Transaction - Dynpro 1 and 2">
 
 #### 02 - Employee Maintenance Transaction - Dynpro 3
-
-<img src="02-employee-maintenance/screenshots/02-Employee%20Maintenance%20Transaction%20-%20Dynpro%203.jpg" width="600">
+<img src="02-employee-maintenance/screenshots/02-Employee%20Maintenance%20Transaction%20-%20Dynpro%203.jpg" width="600" alt="Employee Maintenance Transaction - Dynpro 3">
 
 #### 03 - Process Logic - Dynpro 1
-
-<img src="02-employee-maintenance/screenshots/03-Process%20Logic%20-%20Dynpro%201.jpg" width="600">
+<img src="02-employee-maintenance/screenshots/03-Process%20Logic%20-%20Dynpro%201.jpg" width="600" alt="Process Logic - Dynpro 1">
 
 #### 04 - Process Logic - Dynpro 2
-
-<img src="02-employee-maintenance/screenshots/04-Process%20Logic%20-%20Dynpro%202.jpg" width="600">
+<img src="02-employee-maintenance/screenshots/04-Process%20Logic%20-%20Dynpro%202.jpg" width="600" alt="Process Logic - Dynpro 2">
 
 #### 05 - Process Logic - Dynpro 3
-
-<img src="02-employee-maintenance/screenshots/05-Process%20Logic%20-%20Dynpro%203.jpg" width="600">
+<img src="02-employee-maintenance/screenshots/05-Process%20Logic%20-%20Dynpro%203.jpg" width="600" alt="Process Logic - Dynpro 3">
 
 #### 06 - Employee Maintenance Transaction - Main Design
-
-<img src="02-employee-maintenance/screenshots/06-Employee%20Maintenance%20Transaction%20-%20Main%20Design.jpg" width="600">
+<img src="02-employee-maintenance/screenshots/06-Employee%20Maintenance%20Transaction%20-%20Main%20Design.jpg" width="600" alt="Employee Maintenance Transaction - Main Design">
 
 ## Project Purpose
 
