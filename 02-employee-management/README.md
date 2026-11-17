@@ -1,36 +1,50 @@
-# Employee Management Application
+# Employee Management Transaction
 
 ## Project Overview
 
-This project consists of an employee management application developed using Classic ABAP and Module Pool programming in SAP GUI.
+Employee management project developed using Classic ABAP, consisting of two independent components:
 
-The application allows users to manage employee information, including personal details, company, department and salary, using custom database tables and Open SQL operations.
+- **Employee Registration Transaction:** A custom SAP GUI transaction developed using Module Pool and Dynpro programming, allowing users to search for existing employees and register new employee records.
+- **Employee Maintenance Transaction:** A custom SAP GUI transaction developed using Module Pool and Dynpro programming, allowing users to retrieve, display, modify and delete existing employee records.
 
-It also includes screen navigation and error handling to improve the user experience.
+Both components use a custom database table and Open SQL to manage employee information. The maintenance transaction also retrieves airline information from the standard SAP table SCARR.
 
 ## Main Features
 
+### Employee Registration Transaction
+
 - Employee lookup by airline company and employee number.
-- Employee registration and data management.
-- Business validations to check employee existence.
-- Navigation between screens using Module Pool and Dynpro programming.
-- Display of employee information, including name, surname, department, area, salary, currency and agency.
-- Data retrieval using Open SQL SELECT statements.
-- Data insertion using Open SQL INSERT.
-- Custom database table for employee information.
-- Popup dialogs for handling employees that do not exist.
+- Automatic employee existence check before registration.
+- Conditional registration workflow with popup confirmation when an employee is not found.
+- Navigation between employee search, registration and employee data screens.
+- Employee data insertion into a custom Z table using Open SQL INSERT.
+- Display of employee information, including personal details, department, area, salary, currency and agency.
+
+### Employee Maintenance Transaction
+
+- Employee lookup by airline company and employee number.
+- Retrieval of airline information from the standard SAP table SCARR.
+- Tabstrip-based navigation between employee information screens.
+- Dynamic control of editable fields depending on the selected operation.
+- Employee data modification and database updates using Open SQL MODIFY.
+- Employee record deletion using Open SQL DELETE.
 
 ## Technical Concepts
 
-- Classic ABAP.
-- Module Pool programming and Dynpros.
-- Custom database tables (Z tables).
-- ABAP Dictionary (DDIC).
-- Open SQL.
+- Classic ABAP and Module Pool programming.
+- Dynpro screen processing using PBO and PAI modules.
+- Custom database tables (Z tables) and ABAP Dictionary (DDIC).
+- Open SQL operations (SELECT, INSERT, MODIFY and DELETE).
+- Standard SAP table integration (SCARR).
+- Tabstrip controls and dynamic screen modification using LOOP AT SCREEN.
 - Modularization using INCLUDE programs.
-- Business logic and data validation.
+- Internal structures and work areas for database data handling.
 
 ## Source Code Structure
+
+The source code is organized into two independent components:
+
+### 01 - Employee Registration
 
 The source code is organized into four ABAP files:
 
@@ -39,31 +53,25 @@ The source code is organized into four ABAP files:
 3. **z_dynpro1_niv2_ab1361_pbo.abap** — Output modules and screen preparation.
 4. **z_dynpro1_niv2_ab1361_pai.abap** — User command handling and application logic.
 
+### 02 - Employee Maintenance
+
+The source code is organized into four ABAP files:
+
+1. **z_dynpro2_niv2_ab1361.prog.abap** — Main program and INCLUDE declarations.
+2. **z_dynpro2_niv2_ab1361_top.abap** — Global data declarations and table structures.
+3. **z_dynpro2_niv2_ab1361_pbo.abap** — Output modules and screen preparation.
+4. **z_dynpro2_niv2_ab1361_pai.abap** — User command handling and application logic.
+
 ## Screenshots
 
-### 01 - Employee Management Transaction - Dynpro 1
-<img src="screenshots/01-Employee%20Management%20Transaction%20-%20Dynpro%201.jpg" width="600" alt="Employee Management Transaction - Dynpro 1">
+### 01 - Employee Registration Transaction
 
-### 02 - Employee Management Transaction - Dynpro 2
-<img src="screenshots/02-Employee%20Management%20Transaction%20-%20Dynpro%202.jpg" width="600" alt="Employee Management Transaction - Dynpro 2">
+*Screenshots to be added.*
 
-### 03 - Employee Management Transaction - Dynpro 3
-<img src="screenshots/03-Employee%20Management%20Transaction%20-%20Dynpro%203.jpg" width="600" alt="Employee Management Transaction - Dynpro 3">
+### 02 - Employee Maintenance Transaction
 
-### 04 - Process Logic - Dynpro 1
-<img src="screenshots/04-Process%20Logic%20-%20Dynpro%201.jpg" width="600" alt="Process Logic - Dynpro 1">
-
-### 05 - Process Logic - Dynpro 2
-<img src="screenshots/05-Process%20Logic%20-%20Dynpro%202.jpg" width="600" alt="Process Logic - Dynpro 2">
-
-### 06 - Process Logic - Dynpro 3
-<img src="screenshots/06-Process%20Logic%20-%20Dynpro%203.jpg" width="600" alt="Process Logic - Dynpro 3">
-
-### 07 - Employee Management Transaction - Main Design
-<img src="screenshots/07-Employee%20Management%20Transaction%20-%20Main%20Design.jpg" width="600" alt="Employee Management Transaction - Main Design">
+*Screenshots to be added.*
 
 ## Project Purpose
 
-The purpose of this project is to strengthen practical knowledge of Classic ABAP development through the implementation of an employee management application.
-
-It demonstrates the use of Module Pool programming, custom database tables, Open SQL and interactive SAP GUI screens in a practical business scenario.
+This project demonstrates practical experience in Classic ABAP development, SAP GUI transaction programming, database operations and interactive screen management. It showcases the development of two independent components covering both employee registration and subsequent employee data maintenance.
