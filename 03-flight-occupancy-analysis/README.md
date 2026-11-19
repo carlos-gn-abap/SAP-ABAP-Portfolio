@@ -55,16 +55,13 @@ The report is implemented using five ABAP files:
 ### Flight Occupancy Analysis
 
 #### 01 - Flight Occupancy Analysis - Selection Screen
-
-[Flight Occupancy Analysis - Selection Screen](https://github.com/carlos-gn-abap/SAP-ABAP-Portfolio/blob/main/03-flight-occupancy-analysis/screenshots/01-Flight%20Occupancy%20Analysis%20-%20Selection%20Screen.jpg) ([image](https://github.com/carlos-gn-abap/SAP-ABAP-Portfolio/raw/main/03-flight-occupancy-analysis/screenshots/01-Flight%20Occupancy%20Analysis%20-%20Selection%20Screen.jpg))
+<img src="03-flight-occupancy-analysis/screenshots/01-Flight%20Occupancy%20Analysis%20-%20Selection%20Screen.jpg" width="600" alt="Flight Occupancy Analysis - Selection Screen">
 
 #### 02 - Flight Occupancy Analysis - ALV Output 1
-
-[Flight Occupancy Analysis - ALV Output 1](https://github.com/carlos-gn-abap/SAP-ABAP-Portfolio/blob/main/03-flight-occupancy-analysis/screenshots/02-Flight%20Occupancy%20Analysis%20-%20ALV%20Output%201.jpg) ([image](https://github.com/carlos-gn-abap/SAP-ABAP-Portfolio/raw/main/03-flight-occupancy-analysis/screenshots/02-Flight%20Occupancy%20Analysis%20-%20ALV%20Output%201.jpg))
+<img src="03-flight-occupancy-analysis/screenshots/02-Flight%20Occupancy%20Analysis%20-%20ALV%20Output%201.jpg" width="600" alt="Flight Occupancy Analysis - ALV Output 1">
 
 #### 03 - Flight Occupancy Analysis - ALV Output 2
-
-[Flight Occupancy Analysis - ALV Output 2](https://github.com/carlos-gn-ab-abap/SAP-ABAP-Portfolio/blob/main/03-flight-occupancy-analysis/screenshots/03-Flight%20Occupancy%20Analysis%20-%20ALV%20Output%202.jpg) ([image](https://github.com/carlos-gn-abap/SAP-ABAP-Portfolio/raw/main/03-flight-occupancy-analysis/screenshots/03-Flight%20Occupancy%20Analysis%20-%20ALV%20Output%202.jpg))
+<img src="03-flight-occupancy-analysis/screenshots/03-Flight%20Occupancy%20Analysis%20-%20ALV%20Output%202.jpg" width="600" alt="Flight Occupancy Analysis - ALV Output 2">
 
 ## Project Purpose
 
