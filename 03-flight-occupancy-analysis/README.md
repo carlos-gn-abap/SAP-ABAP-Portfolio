@@ -55,13 +55,13 @@ The report is implemented using five ABAP files:
 ### Flight Occupancy Analysis
 
 #### 01 - Flight Occupancy Analysis - Selection Screen
-<img src="03-flight-occupancy-analysis/screenshots/01-Flight%20Occupancy%20Analysis%20-%20Selection%20Screen.jpg" width="600" alt="Flight Occupancy Analysis - Selection Screen">
+<img src="screenshots/01-Flight%20Occupancy%20Analysis%20-%20Selection%20Screen.jpg" width="600" alt="Flight Occupancy Analysis - Selection Screen">
 
 #### 02 - Flight Occupancy Analysis - ALV Output 1
-<img src="03-flight-occupancy-analysis/screenshots/02-Flight%20Occupancy%20Analysis%20-%20ALV%20Output%201.jpg" width="600" alt="Flight Occupancy Analysis - ALV Output 1">
+<img src="screenshots/02-Flight%20Occupancy%20Analysis%20-%20ALV%20Output%201.jpg" width="600" alt="Flight Occupancy Analysis - ALV Output 1">
 
 #### 03 - Flight Occupancy Analysis - ALV Output 2
-<img src="03-flight-occupancy-analysis/screenshots/03-Flight%20Occupancy%20Analysis%20-%20ALV%20Output%202.jpg" width="600" alt="Flight Occupancy Analysis - ALV Output 2">
+<img src="screenshots/03-Flight%20Occupancy%20Analysis%20-%20ALV%20Output%202.jpg" width="600" alt="Flight Occupancy Analysis - ALV Output 2">
 
 ## Project Purpose
 
